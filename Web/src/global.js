@@ -1,0 +1,1 @@
+export const FIREBASE_CLOUD_FUNCTION_URL = 'https://us-central1-deallocker-fb7ef.cloudfunctions.net/'
